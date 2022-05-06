@@ -1,5 +1,11 @@
 package com.fastcamp.javaoop.sort;
 
+<<<<<<< Updated upstream
+=======
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+
+>>>>>>> Stashed changes
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
