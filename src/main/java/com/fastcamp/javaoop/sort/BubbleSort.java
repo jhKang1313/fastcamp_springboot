@@ -1,12 +1,5 @@
 package com.fastcamp.javaoop.sort;
 
-<<<<<<< Updated upstream
-=======
-import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.context.annotation.Bean;
-import org.springframework.stereotype.Component;
-
->>>>>>> Stashed changes
 import java.util.List;
 
 public class BubbleSort<T extends  Comparable<T>> implements Sort{
